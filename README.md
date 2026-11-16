@@ -1,8 +1,13 @@
 # Customer-Churn-Analysis
 
+<!--TOC-->
+
 ## Table of contents
-- [The problem we're solving.](#The problem we're solving.)
-- [About the project and datasets.](#About the project and datasets.)
+- [The problem we're solving.](#The-problem-we're-solving.)
+- [About the project and datasets.](#Aboutthe-project-and-datasets.)
+
+<!--TOC-->
+
 
 ## The problem we're solving.
 
