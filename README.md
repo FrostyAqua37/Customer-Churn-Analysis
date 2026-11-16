@@ -4,7 +4,7 @@
 
 ## Table of contents
 - [The problem we're solving.](#The-problem-we're-solving.)
-- [About the project and datasets.](#Aboutthe-project-and-datasets.)
+- [About the project and datasets.](#About-the-project-and-datasets.)
 
 <!--TOC-->
 
