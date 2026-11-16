@@ -14,7 +14,7 @@
 The problem we're trying to find out why subscribers of a fitness platform [Peloton](https://www.onepeloton.com/) is cancelling their membership. 
 In this project we are tasked with finding out leading factors for customers churning out, build a model to predict customers with high likelihood of churning and provide evidence and data backed strategies to prevent active customers from churning out.
 
-### About the project and datasets. 
+## About the project and datasets. 
 Both project description and both datasets where obtained through [Data Career School](https://www.datacareerschool.com/), a website to learn and practice Machine Learning and 
 AI with contents like hands-on projects. More information about the project can be found [here](https://www.datacareerschool.com/datalabs/customer-churn-analysis).
 
