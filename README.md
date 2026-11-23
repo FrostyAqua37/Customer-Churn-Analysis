@@ -5,7 +5,6 @@
 ## Table of contents
 - [The problem we're solving.](#The-problem-we're-solving.)
 - [About the project and datasets.](#About-the-project-and-datasets.)
-- [Exploratory Data Analysis.](#Exploratory-Data-Analysis.)
 
 <!--TOC-->
 
@@ -42,5 +41,3 @@ AI with contents like hands-on projects. More information about the project can 
     * classes_booked — Number of classes booked.
     * support_tickets — Number of support tickets created.
 ```
-
-## Exploratory Data Analysis.
